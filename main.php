@@ -2,4 +2,4 @@
 
 echo "Hello from PHP !";
 
-#test Glend credentials
+#test different user credentials
